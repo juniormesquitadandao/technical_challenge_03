@@ -1,7 +1,5 @@
 # technical_challenge_03
 
-- Description: [challenge.md](https://github.com/juniormesquitadandao/marcelo-junior/blob/master/challenge.md)
-
 ## Architecture
 
 GitHub -> Docker -> Docker Compose -> Linux -> MySQL -> PHP -> Wordpress -> Apache -> Nginx -> WPScan -> Circle CI -> GitHub Webhooks -> AWS (IAM -> CloudWatch -> Codebuild -> CLI -> ECR -> ECS -> ASG -> EC2 -> VPC -> PS -> IG -> SG -> TG -> ALB -> Cloudfront -> R53 -> ACM -> RDS MySQL)
